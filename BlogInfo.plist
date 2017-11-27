@@ -1,0 +1,192 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>G7-S</key>
+	<dict>
+		<key>Name</key>
+		<string>Grade 7 Seekers</string>
+		<key>Blog Info</key>
+		<dict>
+			<key>World History</key>
+			<dict>
+				<key>Icon</key>
+				<string>Social Studies Icon</string>
+				<key>RSS URL</key>
+				<string>https://sites.google.com/site/msleahyancientcivilizations/homework/posts.xml</string>
+				<key>Blog URL</key>
+				<string>https://sites.google.com/site/msleahyancientcivilizations/homework</string>
+                <key>Content</key>
+                <string></string>
+			</dict>
+			<key>ELA</key>
+			<dict>
+				<key>Icon</key>
+				<string>ELA Icon</string>
+				<key>RSS URL</key>
+				<string>https://mrpelablog.blogspot.com/feeds/posts/default</string>
+				<key>Blog URL</key>
+				<string>https://mrpelablog.blogspot.com</string>
+                <key>Content</key>
+                <string></string>
+			</dict>
+		</dict>
+	</dict>
+	<key>G7-W</key>
+	<dict>
+		<key>Name</key>
+		<string>Grade 7 Wonders</string>
+		<key>Blog Info</key>
+		<dict>
+			<key>Math</key>
+			<dict>
+				<key>Icon</key>
+				<string>Math Icon</string>
+				<key>RSS URL</key>
+				<string>https://mrsdowneymathclass.blogspot.com/feeds/posts/default</string>
+				<key>Blog URL</key>
+				<string>https://mrsdowneymathclass.blogspot.com</string>
+                <key>Content</key>
+                <string></string>
+			</dict>
+			<key>Science</key>
+			<dict>
+				<key>Icon</key>
+				<string>Science Icon</string>
+				<key>RSS URL</key>
+				<string>https://mrbellerose.blogspot.com/feeds/posts/default</string>
+				<key>Blog URL</key>
+				<string>https://mrbellerose.blogspot.com</string>
+                <key>Content</key>
+                <string></string>
+			</dict>
+			<key>World History</key>
+			<dict>
+				<key>Icon</key>
+				<string>Social Studies Icon</string>
+				<key>Blog URL</key>
+				<string>https://mrobsgeographyclass.blogspot.com</string>
+				<key>RSS URL</key>
+				<string>https://mrobsgeographyclass.blogspot.com/feeds/posts/default</string>
+                <key>Content</key>
+                <string></string>
+			</dict>
+			<key>ELA</key>
+			<dict>
+				<key>Icon</key>
+				<string>ELA Icon</string>
+				<key>RSS URL</key>
+				<string>http://mrsleahy.com/feed</string>
+				<key>Blog URL</key>
+				<string>http://mrsleahy.com</string>
+                <key>Content</key>
+                <string></string>
+			</dict>
+		</dict>
+	</dict>
+	<key>G8-RRS</key>
+	<dict>
+		<key>Name</key>
+		<string>Grade 8 Red Rising Stars</string>
+		<key>Blog Info</key>
+		<dict>
+			<key>Math</key>
+			<dict>
+				<key>Icon</key>
+				<string>Math Icon</string>
+				<key>RSS URL</key>
+				<string>https://tms8-1math.blogspot.com/feeds/posts/default</string>
+				<key>Blog URL</key>
+				<string>https://tms8-1math.blogspot.com</string>
+                <key>Content</key>
+                <string></string>
+			</dict>
+			<key>Science</key>
+			<dict>
+				<key>Icon</key>
+				<string>Science Icon</string>
+				<key>RSS URL</key>
+				<string>https://feeds.feedburner.com/MrChaplesScienceClass</string>
+				<key>Blog URL</key>
+				<string>https://chaplescienceclass.blogspot.com/</string>
+                <key>Content</key>
+                <string></string>
+			</dict>
+			<key>US History</key>
+			<dict>
+				<key>Icon</key>
+				<string>Social Studies Icon</string>
+				<key>RSS URL</key>
+				<string>https://flahertyhistory.edublogs.org/feed</string>
+				<key>Blog URL</key>
+				<string>http://flahertyhistory.edublogs.org</string>
+                <key>Content</key>
+                <string></string>
+			</dict>
+			<key>ELA</key>
+			<dict>
+				<key>Icon</key>
+				<string>ELA Icon</string>
+				<key>RSS URL</key>
+				<string>https://mrmaslanka.wordpress.com/feed</string>
+				<key>Blog URL</key>
+				<string>https://mrmaslanka.wordpress.com</string>
+                <key>Content</key>
+                <string></string>
+			</dict>
+		</dict>
+	</dict>
+	<key>G8-SSS</key>
+	<dict>
+		<key>Name</key>
+		<string>Grade 8 Silver Soaring Stars</string>
+		<key>Blog Info</key>
+		<dict>
+			<key>Math</key>
+			<dict>
+				<key>Icon</key>
+				<string>Math Icon</string>
+				<key>RSS URL</key>
+				<string>https://mseringismath.blogspot.com/feeds/posts/default</string>
+				<key>Blog URL</key>
+				<string>https://mseringismath.blogspot.com</string>
+                <key>Content</key>
+                <string></string>
+			</dict>
+			<key>Science</key>
+			<dict>
+				<key>Icon</key>
+				<string>Science Icon</string>
+				<key>RSS URL</key>
+				<string>https://gauvinscience.blogspot.com/feeds/posts/default</string>
+				<key>Blog URL</key>
+				<string>https://gauvinscience.blogspot.com</string>
+                <key>Content</key>
+                <string></string>
+			</dict>
+			<key>US History</key>
+			<dict>
+				<key>Icon</key>
+				<string>Social Studies Icon</string>
+				<key>RSS URL</key>
+				<string>https://deshlertps.blogspot.com/feeds/posts/default</string>
+				<key>Blog URL</key>
+				<string>https://deshlertps.blogspot.com</string>
+                <key>Content</key>
+                <string></string>
+			</dict>
+			<key>ELA</key>
+			<dict>
+				<key>Icon</key>
+				<string>ELA Icon</string>
+				<key>RSS URL</key>
+				<string>https://elamyers.blogspot.com/feeds/posts/default</string>
+				<key>Blog URL</key>
+				<string>https://elamyers.blogspot.com</string>
+                <key>Content</key>
+                <string></string>
+			</dict>
+		</dict>
+	</dict>
+</dict>
+</plist>
