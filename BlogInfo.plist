@@ -2,191 +2,201 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
-	<key>G7-S</key>
+	<key>TyngMiddle</key>
 	<dict>
-		<key>Blog Info</key>
+		<key>Name</key>
+		<string>Tyngsboro Middle School</string>
+		<key>Location</key>
+		<string>Tyngsboro, MA</string>
+		<key>Classes</key>
 		<dict>
-			<key>ELA</key>
+			<key>G7-S</key>
 			<dict>
-				<key>Blog URL</key>
-				<string>https://mrpelablog.blogspot.com</string>
-				<key>Content</key>
-				<string>No post today.</string>
-				<key>Icon</key>
-				<string>ELA Icon</string>
-				<key>RSS URL</key>
-				<string>https://mrpelablog.blogspot.com/feeds/posts/default</string>
+				<key>Blog Info</key>
+				<dict>
+					<key>ELA</key>
+					<dict>
+						<key>Blog URL</key>
+						<string>https://mrpelablog.blogspot.com</string>
+						<key>Content</key>
+						<string></string>
+						<key>Icon</key>
+						<string>ELA Icon</string>
+						<key>RSS URL</key>
+						<string>https://mrpelablog.blogspot.com/feeds/posts/default</string>
+					</dict>
+					<key>World History</key>
+					<dict>
+						<key>Blog URL</key>
+						<string>https://sites.google.com/site/msleahyancientcivilizations/homework</string>
+						<key>Content</key>
+						<string></string>
+						<key>Icon</key>
+						<string>Social Studies Icon</string>
+						<key>RSS URL</key>
+						<string>https://sites.google.com/site/msleahyancientcivilizations/homework/posts.xml</string>
+					</dict>
+				</dict>
+				<key>Name</key>
+				<string>Grade 7 Seekers</string>
 			</dict>
-			<key>World History</key>
+			<key>G7-W</key>
 			<dict>
-				<key>Blog URL</key>
-				<string>https://sites.google.com/site/msleahyancientcivilizations/homework</string>
-				<key>Content</key>
-				<string>Today in class we went over the Mesopotamia maps, watched a BrainPOP on Sumer, and talked about problems ancient Mesopotamians faced.Homework: Final drafts of the Flintstones essay are due Friday! Attached to this post are the rubric and the writing checklist for you...</string>
-				<key>Icon</key>
-				<string>Social Studies Icon</string>
-				<key>RSS URL</key>
-				<string>https://sites.google.com/site/msleahyancientcivilizations/homework/posts.xml</string>
+				<key>Blog Info</key>
+				<dict>
+					<key>ELA</key>
+					<dict>
+						<key>Blog URL</key>
+						<string>http://mrsleahy.com</string>
+						<key>Content</key>
+						<string></string>
+						<key>Icon</key>
+						<string>ELA Icon</string>
+						<key>RSS URL</key>
+						<string>http://mrsleahy.com/feed</string>
+					</dict>
+					<key>Math</key>
+					<dict>
+						<key>Blog URL</key>
+						<string>https://mrsdowneymathclass.blogspot.com</string>
+						<key>Content</key>
+						<string></string>
+						<key>Icon</key>
+						<string>Math Icon</string>
+						<key>RSS URL</key>
+						<string>https://mrsdowneymathclass.blogspot.com/feeds/posts/default</string>
+					</dict>
+					<key>Science</key>
+					<dict>
+						<key>Blog URL</key>
+						<string>https://mrbellerose.blogspot.com</string>
+						<key>Content</key>
+						<string></string>
+						<key>Icon</key>
+						<string>Science Icon</string>
+						<key>RSS URL</key>
+						<string>https://mrbellerose.blogspot.com/feeds/posts/default</string>
+					</dict>
+					<key>World History</key>
+					<dict>
+						<key>Blog URL</key>
+						<string>https://mrobsgeographyclass.blogspot.com</string>
+						<key>Content</key>
+						<string></string>
+						<key>Icon</key>
+						<string>Social Studies Icon</string>
+						<key>RSS URL</key>
+						<string>https://mrobsgeographyclass.blogspot.com/feeds/posts/default</string>
+					</dict>
+				</dict>
+				<key>Name</key>
+				<string>Grade 7 Wonders</string>
+			</dict>
+			<key>G8-RRS</key>
+			<dict>
+				<key>Blog Info</key>
+				<dict>
+					<key>ELA</key>
+					<dict>
+						<key>Blog URL</key>
+						<string>https://mrmaslanka.wordpress.com</string>
+						<key>Content</key>
+						<string></string>
+						<key>Icon</key>
+						<string>ELA Icon</string>
+						<key>RSS URL</key>
+						<string>https://mrmaslanka.wordpress.com/feed</string>
+					</dict>
+					<key>Math</key>
+					<dict>
+						<key>Blog URL</key>
+						<string>https://tms8-1math.blogspot.com</string>
+						<key>Content</key>
+						<string></string>
+						<key>Icon</key>
+						<string>Math Icon</string>
+						<key>RSS URL</key>
+						<string>https://tms8-1math.blogspot.com/feeds/posts/default</string>
+					</dict>
+					<key>Science</key>
+					<dict>
+						<key>Blog URL</key>
+						<string>https://chaplescienceclass.blogspot.com/</string>
+						<key>Content</key>
+						<string></string>
+						<key>Icon</key>
+						<string>Science Icon</string>
+						<key>RSS URL</key>
+						<string>https://feeds.feedburner.com/MrChaplesScienceClass</string>
+					</dict>
+					<key>US History</key>
+					<dict>
+						<key>Blog URL</key>
+						<string>http://flahertyhistory.edublogs.org</string>
+						<key>Content</key>
+						<string></string>
+						<key>Icon</key>
+						<string>Social Studies Icon</string>
+						<key>RSS URL</key>
+						<string>https://flahertyhistory.edublogs.org/feed</string>
+					</dict>
+				</dict>
+				<key>Name</key>
+				<string>Grade 8 Red Rising Stars</string>
+			</dict>
+			<key>G8-SSS</key>
+			<dict>
+				<key>Blog Info</key>
+				<dict>
+					<key>ELA</key>
+					<dict>
+						<key>Blog URL</key>
+						<string>https://elamyers.blogspot.com</string>
+						<key>Content</key>
+						<string></string>
+						<key>Icon</key>
+						<string>ELA Icon</string>
+						<key>RSS URL</key>
+						<string>https://elamyers.blogspot.com/feeds/posts/default</string>
+					</dict>
+					<key>Math</key>
+					<dict>
+						<key>Blog URL</key>
+						<string>https://mseringismath.blogspot.com</string>
+						<key>Content</key>
+						<string></string>
+						<key>Icon</key>
+						<string>Math Icon</string>
+						<key>RSS URL</key>
+						<string>https://mseringismath.blogspot.com/feeds/posts/default</string>
+					</dict>
+					<key>Science</key>
+					<dict>
+						<key>Blog URL</key>
+						<string>https://gauvinscience.blogspot.com</string>
+						<key>Content</key>
+						<string></string>
+						<key>Icon</key>
+						<string>Science Icon</string>
+						<key>RSS URL</key>
+						<string>https://gauvinscience.blogspot.com/feeds/posts/default</string>
+					</dict>
+					<key>US History</key>
+					<dict>
+						<key>Blog URL</key>
+						<string>https://deshlertps.blogspot.com</string>
+						<key>Content</key>
+						<string></string>
+						<key>Icon</key>
+						<string>Social Studies Icon</string>
+						<key>RSS URL</key>
+						<string>https://deshlertps.blogspot.com/feeds/posts/default</string>
+					</dict>
+				</dict>
+				<key>Name</key>
+				<string>Grade 8 Silver Soaring Stars</string>
 			</dict>
 		</dict>
-		<key>Name</key>
-		<string>Grade 7 Seekers</string>
-	</dict>
-	<key>G7-W</key>
-	<dict>
-		<key>Blog Info</key>
-		<dict>
-			<key>ELA</key>
-			<dict>
-				<key>Blog URL</key>
-				<string>http://mrsleahy.com</string>
-				<key>Content</key>
-				<string>AGENDA: 1.) Wednesdays Bell-Ringer 2.) Correct Monday and Tuesdays Bell-Ringer 3.) Word Work Presentations 4.) Getting to know Ebenezer Scrooge from Stave I 5.) Agenda Books HOMEWORK: 1.) Finish the Google Classroom reading activity that was assigned yesterday. 2.) Two graded assignments (one on characterization and one on comprehension of...</string>
-				<key>Icon</key>
-				<string>ELA Icon</string>
-				<key>RSS URL</key>
-				<string>http://mrsleahy.com/feed</string>
-			</dict>
-			<key>Math</key>
-			<dict>
-				<key>Blog URL</key>
-				<string>https://mrsdowneymathclass.blogspot.com</string>
-				<key>Content</key>
-				<string>Purple  Blue (ST):p.191-193 #10, 18-20, 31-34, 37, 46, 52Orange  Red (ACC):"3.4 Pract.B" #6, 10, 11/ "3.5 Pract.B #2p.147-148 #12-!9p.155 #3Study and highlighted the notes!Unit 3 Test on Thursday</string>
-				<key>Icon</key>
-				<string>Math Icon</string>
-				<key>RSS URL</key>
-				<string>https://mrsdowneymathclass.blogspot.com/feeds/posts/default</string>
-			</dict>
-			<key>Science</key>
-			<dict>
-				<key>Blog URL</key>
-				<string>https://mrbellerose.blogspot.com</string>
-				<key>Content</key>
-				<string>No post today.</string>
-				<key>Icon</key>
-				<string>Science Icon</string>
-				<key>RSS URL</key>
-				<string>https://mrbellerose.blogspot.com/feeds/posts/default</string>
-			</dict>
-			<key>World History</key>
-			<dict>
-				<key>Blog URL</key>
-				<string>https://mrobsgeographyclass.blogspot.com</string>
-				<key>Content</key>
-				<string>HOMEWORK1. Guided Reading Notes 4 Draw and State the Answer2. Chapter 4 and 5 Vocab Quiz Friday</string>
-				<key>Icon</key>
-				<string>Social Studies Icon</string>
-				<key>RSS URL</key>
-				<string>https://mrobsgeographyclass.blogspot.com/feeds/posts/default</string>
-			</dict>
-		</dict>
-		<key>Name</key>
-		<string>Grade 7 Wonders</string>
-	</dict>
-	<key>G8-RRS</key>
-	<dict>
-		<key>Blog Info</key>
-		<dict>
-			<key>ELA</key>
-			<dict>
-				<key>Blog URL</key>
-				<string>https://mrmaslanka.wordpress.com</string>
-				<key>Content</key>
-				<string>No post today.</string>
-				<key>Icon</key>
-				<string>ELA Icon</string>
-				<key>RSS URL</key>
-				<string>https://mrmaslanka.wordpress.com/feed</string>
-			</dict>
-			<key>Math</key>
-			<dict>
-				<key>Blog URL</key>
-				<string>https://tms8-1math.blogspot.com</string>
-				<key>Content</key>
-				<string>All classes are to work on their review sheet for 15-20 minutes tonight to prepare for the test Friday. I do not expect the review to be complete...there will be more time in class tomorrow to work on it.</string>
-				<key>Icon</key>
-				<string>Math Icon</string>
-				<key>RSS URL</key>
-				<string>https://tms8-1math.blogspot.com/feeds/posts/default</string>
-			</dict>
-			<key>Science</key>
-			<dict>
-				<key>Blog URL</key>
-				<string>https://chaplescienceclass.blogspot.com/</string>
-				<key>Content</key>
-				<string>No post today.</string>
-				<key>Icon</key>
-				<string>Science Icon</string>
-				<key>RSS URL</key>
-				<string>https://feeds.feedburner.com/MrChaplesScienceClass</string>
-			</dict>
-			<key>US History</key>
-			<dict>
-				<key>Blog URL</key>
-				<string>http://flahertyhistory.edublogs.org</string>
-				<key>Content</key>
-				<string>OBJECTIVE: Explain why the Americans won the American Revolution. 1. Geography Game 2. Read 7.6 3. Chapter 7 notes 4. Battle Map project HOMEWORK: 1) Geography Quiz  Friday</string>
-				<key>Icon</key>
-				<string>Social Studies Icon</string>
-				<key>RSS URL</key>
-				<string>https://flahertyhistory.edublogs.org/feed</string>
-			</dict>
-		</dict>
-		<key>Name</key>
-		<string>Grade 8 Red Rising Stars</string>
-	</dict>
-	<key>G8-SSS</key>
-	<dict>
-		<key>Blog Info</key>
-		<dict>
-			<key>ELA</key>
-			<dict>
-				<key>Blog URL</key>
-				<string>https://elamyers.blogspot.com</string>
-				<key>Content</key>
-				<string>No post today.</string>
-				<key>Icon</key>
-				<string>ELA Icon</string>
-				<key>RSS URL</key>
-				<string>https://elamyers.blogspot.com/feeds/posts/default</string>
-			</dict>
-			<key>Math</key>
-			<dict>
-				<key>Blog URL</key>
-				<string>https://mseringismath.blogspot.com</string>
-				<key>Content</key>
-				<string>No post today.</string>
-				<key>Icon</key>
-				<string>Math Icon</string>
-				<key>RSS URL</key>
-				<string>https://mseringismath.blogspot.com/feeds/posts/default</string>
-			</dict>
-			<key>Science</key>
-			<dict>
-				<key>Blog URL</key>
-				<string>https://gauvinscience.blogspot.com</string>
-				<key>Content</key>
-				<string>No post today.</string>
-				<key>Icon</key>
-				<string>Science Icon</string>
-				<key>RSS URL</key>
-				<string>https://gauvinscience.blogspot.com/feeds/posts/default</string>
-			</dict>
-			<key>US History</key>
-			<dict>
-				<key>Blog URL</key>
-				<string>https://deshlertps.blogspot.com</string>
-				<key>Content</key>
-				<string>Homework:1.) Map Test -- Friday50 StatesMississippi RiverMajor mountain rangesAppalachianRockyOceansAtlanticPacificGreat Lakes (label on map!)HuronOntarioMichiganErieSuperior</string>
-				<key>Icon</key>
-				<string>Social Studies Icon</string>
-				<key>RSS URL</key>
-				<string>https://deshlertps.blogspot.com/feeds/posts/default</string>
-			</dict>
-		</dict>
-		<key>Name</key>
-		<string>Grade 8 Silver Soaring Stars</string>
 	</dict>
 </dict>
 </plist>
