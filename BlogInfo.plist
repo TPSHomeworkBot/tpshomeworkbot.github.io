@@ -195,12 +195,12 @@
 					<string>Grade 8 Silver Soaring Stars</string>
 				</dict>
 			</dict>
+			<key>Index</key>
+			<integer>0</integer>
 			<key>Location</key>
 			<string>Tyngsboro, MA</string>
 			<key>Name</key>
 			<string>Tyngsboro Middle School</string>
-			<key>Index</key>
-			<integer>0</integer>
 		</dict>
 	</dict>
 </dict>
