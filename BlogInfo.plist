@@ -2,201 +2,204 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
-	<key>TyngMiddle</key>
+	<key>Schools</key>
 	<dict>
-		<key>Classes</key>
+		<key>TyngMiddle</key>
 		<dict>
-			<key>G7-S</key>
+			<key>Classes</key>
 			<dict>
-				<key>Blog Info</key>
+				<key>G7-S</key>
 				<dict>
-					<key>ELA</key>
+					<key>Blog Info</key>
 					<dict>
-						<key>Blog URL</key>
-						<string>https://mrpelablog.blogspot.com</string>
-						<key>Content</key>
-						<string>Here are the words to create sentences for - be sure to know the parts of speech of each wordunanimity  malady  destitute  incessant phenomenoncaustic  homage  immortal replenish  endeavor  melancholy  abridged incredulous  apparitions ...</string>
-						<key>Icon</key>
-						<string>ELA Icon</string>
-						<key>RSS URL</key>
-						<string>https://mrpelablog.blogspot.com/feeds/posts/default</string>
+						<key>ELA</key>
+						<dict>
+							<key>Blog URL</key>
+							<string>https://mrpelablog.blogspot.com</string>
+							<key>Content</key>
+							<string>Here are the words to create sentences for - be sure to know the parts of speech of each wordunanimity  malady  destitute  incessant phenomenoncaustic  homage  immortal replenish  endeavor  melancholy  abridged incredulous  apparitions ...</string>
+							<key>Icon</key>
+							<string>ELA Icon</string>
+							<key>RSS URL</key>
+							<string>https://mrpelablog.blogspot.com/feeds/posts/default</string>
+						</dict>
+						<key>World History</key>
+						<dict>
+							<key>Blog URL</key>
+							<string>https://sites.google.com/site/msleahyancientcivilizations/homework</string>
+							<key>Content</key>
+							<string>Today in class we continued talking about Mesopotamian problems and solutions.Homework: 1. Make sure the final draft of your Flintstones essay is done! The writing checklist and rubric are both attached to this post. You do not need to print it!2....</string>
+							<key>Icon</key>
+							<string>Social Studies Icon</string>
+							<key>RSS URL</key>
+							<string>https://sites.google.com/site/msleahyancientcivilizations/homework/posts.xml</string>
+						</dict>
 					</dict>
-					<key>World History</key>
-					<dict>
-						<key>Blog URL</key>
-						<string>https://sites.google.com/site/msleahyancientcivilizations/homework</string>
-						<key>Content</key>
-						<string>Today in class we continued talking about Mesopotamian problems and solutions.Homework: 1. Make sure the final draft of your Flintstones essay is done! The writing checklist and rubric are both attached to this post. You do not need to print it!2....</string>
-						<key>Icon</key>
-						<string>Social Studies Icon</string>
-						<key>RSS URL</key>
-						<string>https://sites.google.com/site/msleahyancientcivilizations/homework/posts.xml</string>
-					</dict>
+					<key>Name</key>
+					<string>Grade 7 Seekers</string>
 				</dict>
-				<key>Name</key>
-				<string>Grade 7 Seekers</string>
-			</dict>
-			<key>G7-W</key>
-			<dict>
-				<key>Blog Info</key>
+				<key>G7-W</key>
 				<dict>
-					<key>ELA</key>
+					<key>Blog Info</key>
 					<dict>
-						<key>Blog URL</key>
-						<string>http://mrsleahy.com</string>
-						<key>Content</key>
-						<string>AGENDA: 1.) Class pic! 2.) 5-10 minutes of practice 3.) Characterization performances and discussion 4.) Start to discuss the second half of Stave I 5.) Agenda Books HOMEWORK: 1.) Thursday Bell-Ringer (no video as the clip isnt work; just answer the prompt fully and completely) 2.) Complete the two graded...</string>
-						<key>Icon</key>
-						<string>ELA Icon</string>
-						<key>RSS URL</key>
-						<string>http://mrsleahy.com/feed</string>
+						<key>ELA</key>
+						<dict>
+							<key>Blog URL</key>
+							<string>http://mrsleahy.com</string>
+							<key>Content</key>
+							<string>AGENDA: 1.) Class pic! 2.) 5-10 minutes of practice 3.) Characterization performances and discussion 4.) Start to discuss the second half of Stave I 5.) Agenda Books HOMEWORK: 1.) Thursday Bell-Ringer (no video as the clip isnt work; just answer the prompt fully and completely) 2.) Complete the two graded...</string>
+							<key>Icon</key>
+							<string>ELA Icon</string>
+							<key>RSS URL</key>
+							<string>http://mrsleahy.com/feed</string>
+						</dict>
+						<key>Math</key>
+						<dict>
+							<key>Blog URL</key>
+							<string>https://mrsdowneymathclass.blogspot.com</string>
+							<key>Content</key>
+							<string>Purple  Blue (ST):"4.3 challange #17/4.4 pract.c #17-20, 23</string>
+							<key>Icon</key>
+							<string>Math Icon</string>
+							<key>RSS URL</key>
+							<string>https://mrsdowneymathclass.blogspot.com/feeds/posts/default</string>
+						</dict>
+						<key>Science</key>
+						<dict>
+							<key>Blog URL</key>
+							<string>https://mrbellerose.blogspot.com</string>
+							<key>Content</key>
+							<string>No post today.</string>
+							<key>Icon</key>
+							<string>Science Icon</string>
+							<key>RSS URL</key>
+							<string>https://mrbellerose.blogspot.com/feeds/posts/default</string>
+						</dict>
+						<key>World History</key>
+						<dict>
+							<key>Blog URL</key>
+							<string>https://mrobsgeographyclass.blogspot.com</string>
+							<key>Content</key>
+							<string>HOMEWORK1. Chapter 4 Summary2. Ch. 4-5 Vocab Quiz Friday!</string>
+							<key>Icon</key>
+							<string>Social Studies Icon</string>
+							<key>RSS URL</key>
+							<string>https://mrobsgeographyclass.blogspot.com/feeds/posts/default</string>
+						</dict>
 					</dict>
-					<key>Math</key>
-					<dict>
-						<key>Blog URL</key>
-						<string>https://mrsdowneymathclass.blogspot.com</string>
-						<key>Content</key>
-						<string>Purple  Blue (ST):"4.3 challange #17/4.4 pract.c #17-20, 23</string>
-						<key>Icon</key>
-						<string>Math Icon</string>
-						<key>RSS URL</key>
-						<string>https://mrsdowneymathclass.blogspot.com/feeds/posts/default</string>
-					</dict>
-					<key>Science</key>
-					<dict>
-						<key>Blog URL</key>
-						<string>https://mrbellerose.blogspot.com</string>
-						<key>Content</key>
-						<string>No post today.</string>
-						<key>Icon</key>
-						<string>Science Icon</string>
-						<key>RSS URL</key>
-						<string>https://mrbellerose.blogspot.com/feeds/posts/default</string>
-					</dict>
-					<key>World History</key>
-					<dict>
-						<key>Blog URL</key>
-						<string>https://mrobsgeographyclass.blogspot.com</string>
-						<key>Content</key>
-						<string>HOMEWORK1. Chapter 4 Summary2. Ch. 4-5 Vocab Quiz Friday!</string>
-						<key>Icon</key>
-						<string>Social Studies Icon</string>
-						<key>RSS URL</key>
-						<string>https://mrobsgeographyclass.blogspot.com/feeds/posts/default</string>
-					</dict>
+					<key>Name</key>
+					<string>Grade 7 Wonders</string>
 				</dict>
-				<key>Name</key>
-				<string>Grade 7 Wonders</string>
-			</dict>
-			<key>G8-RRS</key>
-			<dict>
-				<key>Blog Info</key>
+				<key>G8-RRS</key>
 				<dict>
-					<key>ELA</key>
+					<key>Blog Info</key>
 					<dict>
-						<key>Blog URL</key>
-						<string>https://mrmaslanka.wordpress.com</string>
-						<key>Content</key>
-						<string>Here is the Google site for the 1960s new broadcast Enter the 60s Advertisements</string>
-						<key>Icon</key>
-						<string>ELA Icon</string>
-						<key>RSS URL</key>
-						<string>https://mrmaslanka.wordpress.com/feed</string>
+						<key>ELA</key>
+						<dict>
+							<key>Blog URL</key>
+							<string>https://mrmaslanka.wordpress.com</string>
+							<key>Content</key>
+							<string>Here is the Google site for the 1960s new broadcast Enter the 60s Advertisements</string>
+							<key>Icon</key>
+							<string>ELA Icon</string>
+							<key>RSS URL</key>
+							<string>https://mrmaslanka.wordpress.com/feed</string>
+						</dict>
+						<key>Math</key>
+						<dict>
+							<key>Blog URL</key>
+							<string>https://tms8-1math.blogspot.com</string>
+							<key>Content</key>
+							<string></string>
+							<key>Icon</key>
+							<string>Math Icon</string>
+							<key>RSS URL</key>
+							<string>https://tms8-1math.blogspot.com/feeds/posts/default</string>
+						</dict>
+						<key>Science</key>
+						<dict>
+							<key>Blog URL</key>
+							<string>https://chaplescienceclass.blogspot.com/</string>
+							<key>Content</key>
+							<string>No post today.</string>
+							<key>Icon</key>
+							<string>Science Icon</string>
+							<key>RSS URL</key>
+							<string>https://feeds.feedburner.com/MrChaplesScienceClass</string>
+						</dict>
+						<key>US History</key>
+						<dict>
+							<key>Blog URL</key>
+							<string>http://flahertyhistory.edublogs.org</string>
+							<key>Content</key>
+							<string>OBJECTIVE: Explain why the Americans won the American Revolution. Geography Game Read 7.7-.9 (whole class) Chapter 7 notes Battle Map HOMEWORK: 1) Geography Quiz</string>
+							<key>Icon</key>
+							<string>Social Studies Icon</string>
+							<key>RSS URL</key>
+							<string>https://flahertyhistory.edublogs.org/feed</string>
+						</dict>
 					</dict>
-					<key>Math</key>
-					<dict>
-						<key>Blog URL</key>
-						<string>https://tms8-1math.blogspot.com</string>
-						<key>Content</key>
-						<string></string>
-						<key>Icon</key>
-						<string>Math Icon</string>
-						<key>RSS URL</key>
-						<string>https://tms8-1math.blogspot.com/feeds/posts/default</string>
-					</dict>
-					<key>Science</key>
-					<dict>
-						<key>Blog URL</key>
-						<string>https://chaplescienceclass.blogspot.com/</string>
-						<key>Content</key>
-						<string>No post today.</string>
-						<key>Icon</key>
-						<string>Science Icon</string>
-						<key>RSS URL</key>
-						<string>https://feeds.feedburner.com/MrChaplesScienceClass</string>
-					</dict>
-					<key>US History</key>
-					<dict>
-						<key>Blog URL</key>
-						<string>http://flahertyhistory.edublogs.org</string>
-						<key>Content</key>
-						<string>OBJECTIVE: Explain why the Americans won the American Revolution. Geography Game Read 7.7-.9 (whole class) Chapter 7 notes Battle Map HOMEWORK: 1) Geography Quiz</string>
-						<key>Icon</key>
-						<string>Social Studies Icon</string>
-						<key>RSS URL</key>
-						<string>https://flahertyhistory.edublogs.org/feed</string>
-					</dict>
+					<key>Name</key>
+					<string>Grade 8 Red Rising Stars</string>
 				</dict>
-				<key>Name</key>
-				<string>Grade 8 Red Rising Stars</string>
-			</dict>
-			<key>G8-SSS</key>
-			<dict>
-				<key>Blog Info</key>
+				<key>G8-SSS</key>
 				<dict>
-					<key>ELA</key>
+					<key>Blog Info</key>
 					<dict>
-						<key>Blog URL</key>
-						<string>https://elamyers.blogspot.com</string>
-						<key>Content</key>
-						<string>Today's project reminder included working on your group's actual script...all groups were to have created a shared google doc to begin organizing their thoughts in one place.</string>
-						<key>Icon</key>
-						<string>ELA Icon</string>
-						<key>RSS URL</key>
-						<string>https://elamyers.blogspot.com/feeds/posts/default</string>
+						<key>ELA</key>
+						<dict>
+							<key>Blog URL</key>
+							<string>https://elamyers.blogspot.com</string>
+							<key>Content</key>
+							<string>Today's project reminder included working on your group's actual script...all groups were to have created a shared google doc to begin organizing their thoughts in one place.</string>
+							<key>Icon</key>
+							<string>ELA Icon</string>
+							<key>RSS URL</key>
+							<string>https://elamyers.blogspot.com/feeds/posts/default</string>
+						</dict>
+						<key>Math</key>
+						<dict>
+							<key>Blog URL</key>
+							<string>https://mseringismath.blogspot.com</string>
+							<key>Content</key>
+							<string></string>
+							<key>Icon</key>
+							<string>Math Icon</string>
+							<key>RSS URL</key>
+							<string>https://mseringismath.blogspot.com/feeds/posts/default</string>
+						</dict>
+						<key>Science</key>
+						<dict>
+							<key>Blog URL</key>
+							<string>https://gauvinscience.blogspot.com</string>
+							<key>Content</key>
+							<string>No post today.</string>
+							<key>Icon</key>
+							<string>Science Icon</string>
+							<key>RSS URL</key>
+							<string>https://gauvinscience.blogspot.com/feeds/posts/default</string>
+						</dict>
+						<key>US History</key>
+						<dict>
+							<key>Blog URL</key>
+							<string>https://deshlertps.blogspot.com</string>
+							<key>Content</key>
+							<string>Homework:1.) Map Test Tomorrow50 StatesGreat LakesMajor Mountain RangesAppalachianRockyOceansMississippi RiverFollow past blog posts to study and use the map games! Email me if you have any questions.</string>
+							<key>Icon</key>
+							<string>Social Studies Icon</string>
+							<key>RSS URL</key>
+							<string>https://deshlertps.blogspot.com/feeds/posts/default</string>
+						</dict>
 					</dict>
-					<key>Math</key>
-					<dict>
-						<key>Blog URL</key>
-						<string>https://mseringismath.blogspot.com</string>
-						<key>Content</key>
-						<string></string>
-						<key>Icon</key>
-						<string>Math Icon</string>
-						<key>RSS URL</key>
-						<string>https://mseringismath.blogspot.com/feeds/posts/default</string>
-					</dict>
-					<key>Science</key>
-					<dict>
-						<key>Blog URL</key>
-						<string>https://gauvinscience.blogspot.com</string>
-						<key>Content</key>
-						<string>No post today.</string>
-						<key>Icon</key>
-						<string>Science Icon</string>
-						<key>RSS URL</key>
-						<string>https://gauvinscience.blogspot.com/feeds/posts/default</string>
-					</dict>
-					<key>US History</key>
-					<dict>
-						<key>Blog URL</key>
-						<string>https://deshlertps.blogspot.com</string>
-						<key>Content</key>
-						<string>Homework:1.) Map Test Tomorrow50 StatesGreat LakesMajor Mountain RangesAppalachianRockyOceansMississippi RiverFollow past blog posts to study and use the map games! Email me if you have any questions.</string>
-						<key>Icon</key>
-						<string>Social Studies Icon</string>
-						<key>RSS URL</key>
-						<string>https://deshlertps.blogspot.com/feeds/posts/default</string>
-					</dict>
+					<key>Name</key>
+					<string>Grade 8 Silver Soaring Stars</string>
 				</dict>
-				<key>Name</key>
-				<string>Grade 8 Silver Soaring Stars</string>
 			</dict>
+			<key>Location</key>
+			<string>Tyngsboro, MA</string>
+			<key>Name</key>
+			<string>Tyngsboro Middle School</string>
 		</dict>
-		<key>Location</key>
-		<string>Tyngsboro, MA</string>
-		<key>Name</key>
-		<string>Tyngsboro Middle School</string>
 	</dict>
 </dict>
 </plist>
