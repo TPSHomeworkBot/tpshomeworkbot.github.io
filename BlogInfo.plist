@@ -2,6 +2,8 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
+	<key>LastModified</key>
+        <string>never</string>
 	<key>Schools</key>
 	<dict>
 		<key>TyngMiddle</key>
@@ -201,8 +203,6 @@
 			<string>Tyngsboro, MA</string>
 			<key>Name</key>
 			<string>Tyngsboro Middle School</string>
-          <key>LastModified</key>
-          <string>never</string>
 		</dict>
 	</dict>
 </dict>
